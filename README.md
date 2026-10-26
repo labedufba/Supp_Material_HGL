@@ -1,4 +1,4 @@
-# Supp_Material_HGL: Supplementary Material for Heteropia glomerosa (HGL) Genome
+# Supp_Material_HGL: Supplementary Material 2 (SM2) for Heteropia glomerosa (HGL) Genome
 
 This repository contains supplementary data, annotations, alignments, and plots related to the genomic analysis of Heteropia.
 
